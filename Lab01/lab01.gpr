@@ -1,0 +1,8 @@
+project Lab01 is
+
+   for Source_Dirs use ("src");
+   for Object_Dir use "obj";
+   for Main use ("bitarra.adb", "collatz.adb", "zenbat_digitu.adb", "zenbaki_positiboak_eta_negatiboak.adb", "hutsuneak_ezabatu.adb", "multiploen_batuketa.adb", "triangelua_da.adb", "main.adb");
+
+end Lab01;
+

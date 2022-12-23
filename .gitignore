@@ -3,3 +3,33 @@
 
 # Ada Library Information
 *.ali
+
+#Lab01 Builds
+/Lab01/obj/
+
+#Lab02 Builds
+/Lab02/obj/
+
+#Lab03 Builds
+/Lab03/obj/
+
+#Lab04 Builds
+/Lab04/obj/
+
+#Lab05 Builds
+/Lab05/obj/
+
+#Lab06 Builds
+/Lab06/obj/
+
+#Lab07 Builds
+/Lab07/obj/
+
+#Lab08 Builds
+/Lab08/obj/
+
+#Lab09 Builds
+/Lab09/obj/
+
+#Lab10 Builds
+/Lab10/obj/
