@@ -2,7 +2,7 @@
 
 ### Ariketen Ordena:
 1. Oso Bektoreak
-    > Programa nagusia ([oso_bektoreak_main.adb](https://github.com/Bartolumiu/oinarrizko-programazioa-ehu/tree/main/Lab04/src/lehen_zenbaki_lehenaren_pos_eta_balioa_main.adb)) |
+    > Programa nagusia ([oso_bektoreak_main.adb](https://github.com/Bartolumiu/oinarrizko-programazioa-ehu/tree/main/Lab04/src/oso_bektoreak_main.adb)) |
     > Azpiprogramak:
     >> [lehena_da.adb](https://github.com/Bartolumiu/oinarrizko-programazioa-ehu/tree/main/Lab04/src/azpiprogramak/lehena_da.adb)
     >> [lehen_zenbaki_lehenaren_pos_eta_balioa_lortu.adb](https://github.com/Bartolumiu/oinarrizko-programazioa-ehu/tree/main/Lab04/src/azpiprogramak/lehen_zenbaki_lehenaren_pos_eta_balioa_lortu.adb)
