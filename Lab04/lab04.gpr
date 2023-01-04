@@ -2,7 +2,20 @@ project Lab04 is
 
    for Source_Dirs use ("src/erregistroak", "src/azpiprogramak", "src");
    for Object_Dir use "obj";
-   for Main use ("igarrenean_txertatu_desplazatuz.adb", "atzekoz_aurrera_jarri.adb", "zenbaki_guztiak_lehenak.adb", "oso_bektoreak_main.adb", "lehen_zenbaki_lehenaren_pos_eta_balioa_lortu.adb", "lehena_da.adb");
+   for Main use ("datuak_pantailaratu.adb", "ehunekoa_kalkulatu.adb", "irakasgaien_estatistikak_main.adb", "datuak_kargatu.adb", "igarrenean_txertatu_desplazatuz.adb", "atzekoz_aurrera_jarri.adb", "zenbaki_guztiak_lehenak.adb", 
+      "oso_bektoreak_main.adb", "lehen_zenbaki_lehenaren_pos_eta_balioa_lortu.adb", "lehena_da.adb");
+
+   package Builder is
+      for Switches ("ada") use ("-gnat2022");
+   end Builder;
+
+   package Compiler is
+      for Switches ("ada") use ("-g");
+   end Compiler;
+
+   package Linker is
+      for Switches ("ada") use ("-g");
+   end Linker;
 
 end Lab04;
 
