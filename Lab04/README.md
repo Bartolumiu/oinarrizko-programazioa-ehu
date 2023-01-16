@@ -10,7 +10,7 @@
     >> [alderantziz_jarri.adb](https://github.com/Bartolumiu/oinarrizko-programazioa-ehu/tree/main/Lab04/src/azpiprogramak/alderantziz_jarri.adb)
     >> [igarrenean_txertatu_desplazatuz.adb](https://github.com/Bartolumiu/oinarrizko-programazioa-ehu/tree/main/Lab04/src/azpiprogramak/igarrenean_txertatu_desplazatuz.adb)
 2. Irakasgaien estatistikak
-    > Programa nagusia ([irakasgaien_estatistikak_main.adb](https://github.com/Bartolumiu/oinarrizko-programazioa-ehu/tree/main/Lab04/src/irakasgaiaren_estatistikak_main.adb)) |
+    > Programa nagusia ([irakasgaien_estatistikak_main.adb](https://github.com/Bartolumiu/oinarrizko-programazioa-ehu/tree/main/Lab04/src/irakasgaien_estatistikak_main.adb)) |
     > Azpiprogramak:
     >> [datuak_kargatu.adb](https://github.com/Bartolumiu/oinarrizko-programazioa-ehu/tree/main/Lab04/src/azpiprogramak/datuak_kargatu.adb)
     >> [ehunekoa_kalkulatu.adb](https://github.com/Bartolumiu/oinarrizko-programazioa-ehu/tree/main/Lab04/src/azpiprogramak/ehunekoa_kalkulatu.adb)
